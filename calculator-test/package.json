@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "node": "^20.2.0"
+  },
+  "name": "maheen",
+  "version": "1.0.0",
+  "description": "this si testsgs",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calcualtor"
+  ],
+  "author": "me",
+  "license": "ISC"
+}
